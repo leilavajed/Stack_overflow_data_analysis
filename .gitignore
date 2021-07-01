@@ -4,6 +4,6 @@
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 **/.cache/
-calender.csv
-listings.csv
-reviews.csv
+
+survey_results_public.csv
+survey_results_schema.csv
